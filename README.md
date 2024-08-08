@@ -27,7 +27,7 @@ Ensure you have Python and pip installed on your system. You will also need to i
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning
+git clone https://github.com/onic106/Simple-House-Price-Prediction-using-Machine-Learning.git
 cd House-Price-Prediction-using-Machine-Learning
 ```
 
